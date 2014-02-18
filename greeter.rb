@@ -2,3 +2,4 @@
 
 puts "Hello RFORE"
 puts "This is a pretty tame demo of Git basics"
+puts "I like monkeys"
